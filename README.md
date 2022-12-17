@@ -6,7 +6,7 @@ Professor: Pablo Henrique (Desenvolvedor Full Stack) [LinkedIn](https://www.link
 ### 10- Criando Uma Wiki de Repositórios do GitHub Com React
 #### Hands-on: Criando Uma Wiki de Repositórios do GitHub Com React.
 
-
+![gif do projeto]()
 #### [Entenda o Desafio](https://github.com/digitalinnovationone/trilha-react-desafio-2)
 
 [Projeto](https://github.com/Amanda-ribeiiro/criando-wiki-com-react.git)
