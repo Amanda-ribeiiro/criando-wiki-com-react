@@ -12,5 +12,14 @@
 Com ela é possivel buscar um repositório público entrando com o nome do usuário e o nome do repositório:
 ![gif do projeto](https://github.com/Amanda-ribeiiro/criando-wiki-com-react/blob/main/wiki/src/assets/video.gif)
 
+
+
+🛠 Tecnologias que foram utilizadas para o desenvolvimento:
+
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+- [StyledComponents](https://styled-components.com/)
+
 [Certificado](https://hermes.digitalinnovation.one/certificates/7ED69054.pdf)
 
